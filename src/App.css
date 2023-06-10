@@ -1,0 +1,48 @@
+.DivHeader {
+
+background-color: coral;
+display: flex;
+   width: 100%;
+
+}
+
+
+.DivHeader2 {
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+p {width: 50%;}
+
+h1 { margin: 100px;}
+
+.DivMain{
+  background-color: cadetblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+    width: 100%;
+}
+
+
+
+
+
+img { width: 10%;}
+
+.Footer1 {
+  
+  width: 100%;
+  background-color: black;
+  color: white;
+  justify-content: space-between;
+  display: flex;
+
+
+}
